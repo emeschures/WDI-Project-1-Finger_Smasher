@@ -36,7 +36,7 @@ As a player, I don't want to die?
 
 As a player, I want to be alerted as to who won.
 
-###Outstanding Challenges:
+### Outstanding Challenges:
 
 Trying to work on the project while the flashing and music were playing.
 

@@ -7,7 +7,7 @@ ___
 
 60% of the time, it works everytime.
 
-*The way in which you end up taking a nap may vary for user
+######*The way in which you end up taking a nap may vary for user
 
 [play game](https://emeschures.github.io/finger_smasher/)
 

@@ -3,7 +3,7 @@ ___
 
 ## Seizure inducing fun!
 
-##### Tired? Frusturated? Need a nap*?  This game will definitely help with all that! 
+### Tired? Frusturated? Need a nap*?  This game will definitely help with all that! 
 
 60% of the time, it works everytime.
 

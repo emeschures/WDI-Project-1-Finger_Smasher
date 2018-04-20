@@ -9,7 +9,7 @@ ___
 
 ###### *The way in which you end up taking a nap may vary for user
 
-[play game](https://emeschures.github.io/finger_smasher/)
+[play game](https://emeschures.github.io/WDI-Project-1-Finger_Smasher/)
 
 ### How To Play:
 Click the start button.
